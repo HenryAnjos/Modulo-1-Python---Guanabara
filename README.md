@@ -1,4 +1,4 @@
-### Olá, Mundo! 🌎
+# Olá, Mundo! 🌎
 
 Bem-vindo ao meu repositório! Aqui estou documentando minha jornada no **Curso de Python - Módulo 1**, do incrível professor Gustavo Guanabara. 🚀
 
